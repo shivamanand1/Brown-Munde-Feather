@@ -31,7 +31,7 @@ Conventional video calling services transmit video and audio, while <b>Feather</
 #### 1. Clone repository
 
 ```
-git clone https://github.com/IshaanOhri/feather
+git clone https://github.com/shivamanand1/Brown-Munde-Feather.git
 ```
 #### 2. Create room
 
